@@ -1,0 +1,41 @@
+.MyBg {
+    background-attachment: local;
+    background-image: radial-gradient(rgba(100, 125, 125, 0.15), rgb(0, 120, 200));
+    background-size: cover;
+    height: 100vh;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.title {
+    color: white;
+    text-shadow: 1px 1px black;
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.latest-new{
+    padding: auto;
+    margin: auto;
+}
+
+.old-new{
+    padding: auto;
+    margin: auto;
+}
+
+.youtube, .github, .saweria{
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-weight: 500;
+    text-shadow: 1px 1px white;
+}
+
+.created {
+    padding: auto;
+    margin: auto;
+}
